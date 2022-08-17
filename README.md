@@ -10,7 +10,6 @@ I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technolo
 ## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Avishkasj&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Avishkasj&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishkasj&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 

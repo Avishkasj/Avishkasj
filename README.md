@@ -4,7 +4,7 @@
 
 # Hello there! I'm Avishka Supun
 
-I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technology, University of Ruhuna in Sri Lanka (Bachelor of information communication technology Honours). I do WEb and Mobile app Development. I enjoy learning languages and frameworks like Flutter and React Native and working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
+I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technology, University of Ruhuna in Sri Lanka (Bachelor of information communication technology Honours). I do WEb app Development. I enjoy learning languages and frameworks like Flutter and React Native and working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
 
 ## GitHub Stats:

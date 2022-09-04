@@ -11,6 +11,8 @@ I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technolo
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avishkasj&theme=vue)
 
+![](<img src="https://github-readme-stats.vercel.app/api/top-langs?Avishkasj=zluvsand&layout=compact"/>)
+
 
 
 

@@ -9,7 +9,7 @@ I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technolo
 
 ## GitHub Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avishkasj&theme=vue) <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avishkasj&show_icons=true&locale=en&layout=compact"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avishkasj&theme=vue)
 
 
 

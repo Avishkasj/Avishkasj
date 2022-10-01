@@ -14,5 +14,6 @@ I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technolo
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94762697156)](https://wa.me/+94771637551)
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asupunjayasooriya@gmail.com)](mailto:asupunjayasooriya@gmail.com)
 
 

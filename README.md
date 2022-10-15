@@ -12,6 +12,8 @@ I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technolo
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avishkasj&theme=vue)
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishkasj&layout=compact)](https://github.com/Avishkasj/github-readme-stats)
+
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94762697156)](https://wa.me/+94771637551)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asupunjayasooriya@gmail.com)](mailto:asupunjayasooriya@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&labelColor=0a66c2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madushansandaru1/)](https://www.linkedin.com/in/avishka-supun-855b901a1/)

@@ -14,5 +14,7 @@ I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technolo
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avishkasj&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e")
 
+![Shehanka snake gif](https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg)
+
 
 

@@ -15,10 +15,8 @@ I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technolo
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avishkasj&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e")
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?styleflat&logo=flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=fflat&logo=jquery&logoColor=white") ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=style=flat&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
-
-<br/>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-<br/>
+
 
 
 

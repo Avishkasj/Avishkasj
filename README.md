@@ -9,7 +9,7 @@
 
 I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technology, University of Ruhuna in Sri Lanka (Bachelor of information communication technology Honours). I do web app development. I enjoy learning programming languages and frameworks like Flutter, React, and anguler. I also enjoy wireframing, UI, UX, and design in general.
 
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94762697156)](https://wa.me/+94771637551)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94762697156)](https://wa.me/+94762697156)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asupunjayasooriya@gmail.com)](mailto:asupunjayasooriya@gmail.com)
 
 

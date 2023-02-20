@@ -15,7 +15,7 @@ I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technolo
 
 ## GitHub Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avishkasj&title_color=18d26e&text_color=ffffff&bg_color=0DB43A&langs_count=8&layout=compact&border_color=18d26e")
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avishkasj&title_color=18d26e&text_color=ffffff&bg_color=0DB43A&langs_count=8&layout=compact&border_color=0DB43A")
 
 <a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />

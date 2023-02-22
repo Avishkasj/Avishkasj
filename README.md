@@ -13,18 +13,6 @@ I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technolo
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asupunjayasooriya@gmail.com)](mailto:asupunjayasooriya@gmail.com)
 
 
-<div align='center'>
-  
-<!-- Github dark mode -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishkasj&layout=compact&bg_color=020712&border_color=020712&text_color=A4A6AC#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Avishkasj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avishkasj&show_icons=true&hide_title=true&hide_rank=false&card_width=400&bg_color=020712&border_color=020712&text_color=A4A6AC#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  
-<!-- Github light mode -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishkasj&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  [![Avishkasj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avishkasj&show_icons=true&hide_title=true&hide_rank=false&card_width=400#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-</div>
-
-
-
 
 ## GitHub Stats:
 [![Avishkasj's github activity graph](https://github-graph.herokuapp.com/graph?username=Avishkasj&hide_border=true&radius=15&theme=github-compact&hide_title=true&bg_color=020712)](https://github.com/Avishkasj#gh-dark-mode-only)

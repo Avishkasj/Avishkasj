@@ -4,7 +4,7 @@
 |`H`|`E`|`L`|`L`|`O`| - |`T`|`H`|`E`|`R`|`E`|`!`|   
 
 ---
-
+![alt text](https://github.com/Avishkasj/Avishkasj/blob/main/img1.png)
 # Hello there! I'm Avishka Supun
 
 I'm Avishka from Kurunegala, and I'm an Undergraduate of the Faculty of Technology, University of Ruhuna in Sri Lanka (Bachelor of information communication technology Honours). I do web app development. I enjoy learning programming languages and frameworks like Flutter, React, and anguler. I also enjoy wireframing, UI, UX, and design in general.

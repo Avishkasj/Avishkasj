@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Avishka+Supun;Full+Stack+Developer;UI%2FUX+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Avishka+Supun;Full+Stack+Developer;Flutter+Enthusiast" />
 
 <br>
 
@@ -14,12 +14,12 @@
 
 # 👨‍💻 Avishka Supun
 
-### Full Stack Developer • Flutter Enthusiast • UI/UX Designer
+### Full Stack Developer • Flutter Enthusiast
 
 📍 Sri Lanka  
-💡 Passionate about building beautiful, scalable applications.
+💡 Passionate about building modern, scalable, and efficient applications.
 
-I enjoy working with modern technologies, designing intuitive user experiences, and continuously exploring new tools that help create better digital products.
+I enjoy working with modern technologies, learning new frameworks, and continuously improving my development skills by exploring tools that help create better digital experiences.
 
 </div>
 
@@ -79,6 +79,6 @@ I enjoy working with modern technologies, designing intuitive user experiences, 
 
 <div align="center">
 
-### ⭐ "Code. Design. Build. Repeat."
+### ⭐ Code • Learn • Build • Repeat
 
 </div>

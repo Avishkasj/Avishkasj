@@ -1,32 +1,84 @@
-[![](https://visitcount.itsvg.in/api?id=Achinit99&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Avishka+Supun;Full+Stack+Developer;UI%2FUX+Enthusiast" />
 
-|`H`|`E`|`L`|`L`|`O`| - |`T`|`H`|`E`|`R`|`E`|`!`|   
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=Achinit99&icon=5&color=12)](https://visitcount.itsvg.in)
+
+</div>
 
 ---
-![alt text](https://github.com/Avishkasj/Avishkasj/blob/main/img1.png)
-# Hello there! I'm Avishka Supun
 
-I'm Avishka from Kurunegala, I do web app development. I enjoy learning programming languages and frameworks like Flutter, React, and anguler. I also enjoy wireframing, UI, UX, and design in general.
+<div align="center">
 
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94762697156)](https://wa.me/+94762697156)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asupunjayasooriya@gmail.com)](mailto:asupunjayasooriya@gmail.com)
+# 👨‍💻 Avishka Supun
 
+### Full Stack Developer • Flutter Enthusiast • UI/UX Designer
 
+📍 Sri Lanka  
+💡 Passionate about building beautiful, scalable applications.
 
-## GitHub Stats:
-[![Avishkasj's github activity graph](https://github-graph.herokuapp.com/graph?username=Avishkasj&hide_border=true&radius=15&theme=github-compact&hide_title=true&bg_color=020712)](https://github.com/Avishkasj#gh-dark-mode-only)
-  
-<!-- [![Avishkasj's github activity graph](https://github-graph.herokuapp.com/graph?username=Avishkasj&hide_border=true&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5)](https://github.com/Avishkasj#gh-light-mode-only) -->
+I enjoy working with modern technologies, designing intuitive user experiences, and continuously exploring new tools that help create better digital products.
 
+</div>
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avishkasj&title_color=18d26e&text_color=ffffff&bg_color=0DB43A&langs_count=8&layout=compact&border_color=0DB43A") -->
+---
 
+## 🌐 Connect With Me
 
+<div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?styleflat&logo=flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=fflat&logo=jquery&logoColor=white") ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=style=flat&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94762697156)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asupunjayasooriya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avishkasj)
 
+</div>
 
+---
 
+## 🚀 Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,react,angular,nodejs,express,laravel,mysql,bootstrap,css,git,github" />
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Avishkasj&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishkasj&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Avishkasj&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avishkasj&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Design. Build. Repeat."
+
+</div>
